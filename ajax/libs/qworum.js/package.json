@@ -1,7 +1,7 @@
 {
   "name":        "qworum.js",
   "filename":    "qworum.min.js",
-  "version":     "1.0.0.1",
+  "version":     "1.0.0.2",
   "description": "A JavaScript library for developing modular single-page web applications.",
   "homepage":    "http://www.qworum.com/tutorials/qworum.js",
   "keywords": [
